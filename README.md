@@ -8,10 +8,10 @@ My primary interest lies in **data science**, and I am eager to apply my skills 
 
 # Skills & Tools
 
-**Languages**: Python, SQL 
-**ML/AI**: Logistic Regression, LASSO, Decision Trees, LSTM, CNN  
-**Visualization**: Tableau, Matplotlib, Seaborn  
-**Tools**: Git, VS Code, Jupyter, AWS (EC2)
+- **Languages**: Python, SQL 
+- **ML/AI**: Logistic Regression, LASSO, Decision Trees, LSTM, CNN  
+- **Visualization**: Tableau, Matplotlib, Seaborn  
+- **Tools**: Git, VS Code, Jupyter, AWS (EC2)
 
 # Languages
 
