@@ -20,6 +20,7 @@ My primary interest lies in **data science**, and I am eager to apply my skills 
 - German (proficient)
 
 # Projects
+
 ### WiDS Datathon Project
 Neuropsychiatric disorders that occur in development, like anxiety, depression, autism, and attention deficit hyperactivity disorder, or ADHD, often differ in how and to what extent they affect males and females. ADHD occurs in about 11% of adolescents, with around 14% of boys and 8% of girls having a diagnosis. There is some evidence that girls with ADHD can often go undiagnosed, as they tend to have more inattentive symptoms, which are harder to detect. Girls with ADHD who are undiagnosed continue suffering from symptoms that burden their mental health and capacity to function.
 
@@ -28,6 +29,7 @@ Fundamental Question: What brain activity patterns are associated with ADHD; are
 
 
 # Education
+
 <img src="docs/assets/HSB_01_UStateLeft_AggieBlue.png" alt="Utah State University Logo" width="160"/>
 
 **Utah State University** — *Logan, UT*  
