@@ -11,8 +11,7 @@ My primary interest lies in **data science**, and I am eager to apply my skills 
 **Languages**: Python, SQL 
 **ML/AI**: Logistic Regression, LASSO, Decision Trees, LSTM, CNN  
 **Visualization**: Tableau, Matplotlib, Seaborn  
-**Cloud**: AWS (EC2, S3)  
-**Tools**: Git, VS Code, Jupyter, AWS EC2
+**Tools**: Git, VS Code, Jupyter, AWS (EC2)
 
 # Languages
 
