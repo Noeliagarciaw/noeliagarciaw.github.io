@@ -1,28 +1,43 @@
-# noeliagarciaw.github.io
-# Bio
-- I am a **Data Analytics** and **Information Systems** student at **Utah State University**, with a **Data Engineering** emphasis. Originally from **Bolivia**, I have navigated both cultural and academic challenges, which have shaped my resilience and problem-solving skills.
+# About Me
+I am a **Data Analytics** and **Information Systems** student at **Utah State University**, with a **Data Engineering** emphasis. Originally from **Bolivia**, I have navigated both cultural and academic challenges, which have shaped my resilience and problem-solving skills.
 
 With expertise in **Python**, **SQL**, **Tableau**, and **AWS**, I have contributed to impactful projects at **ASPIRE ERC**, particularly in **electric roadways** and **electric vehicle charging infrastructure**. My academic and professional experiences have deepened my understanding of **machine learning**, **data analysis**, and **strategic planning**.
 
 My primary interest lies in **data science**, and I am eager to apply my skills to projects that drive innovation and solve real-world problems through data-driven solutions.
 
+## Contact
+
+- **Email**: noegarw@gmail.com  
+- **LinkedIn**: [linkedin.com/in/noelia-garcia-weidling](https://www.linkedin.com/in/noelia-garcia-weidling/)  
+- **GitHub**: [github.com/noeliagarciaw](https://github.com/Noeliagarciaw) 
+
 
 # Projects
 ### WiDS Datathon Project
-- Neuropsychiatric disorders that occur in development, like anxiety, depression, autism, and attention deficit hyperactivity disorder, or ADHD, often differ in how and to what extent they affect males and females. ADHD occurs in about 11% of adolescents, with around 14% of boys and 8% of girls having a diagnosis. There is some evidence that girls with ADHD can often go undiagnosed, as they tend to have more inattentive symptoms which are harder to detect. Girls with ADHD who are undiagnosed with continue suffering from symptoms that burden their mental health and capacity to function.
+Neuropsychiatric disorders that occur in development, like anxiety, depression, autism, and attention deficit hyperactivity disorder, or ADHD, often differ in how and to what extent they affect males and females. ADHD occurs in about 11% of adolescents, with around 14% of boys and 8% of girls having a diagnosis. There is some evidence that girls with ADHD can often go undiagnosed, as they tend to have more inattentive symptoms, which are harder to detect. Girls with ADHD who are undiagnosed continue suffering from symptoms that burden their mental health and capacity to function.
 
 Fundamental Question: What brain activity patterns are associated with ADHD; are they different between males and females, and if so, how?
-- [wids_project](https://github.com/babigail100/wids_project)
+- Continue reading at [wids_project](https://github.com/babigail100/wids_project) 
 
 
 # Education
-- Utah State University 
+![Utah State University Logo](https://upload.wikimedia.org/wikipedia/commons/6/65/Utah_State_University_logo.svg)
+
+**Utah State University** — *Logan, UT*  
+**Bachelor of Science (BS)**  
+**Majors**: Management Information Systems & Data Analytics  
+**Emphasis**: Data Engineering  
+*Jan 2022 – Aug 2025*
+
+- Double major focused on leveraging data for strategic decision-making and digital transformation.
+- Relevant coursework: Machine Learning, Database Management, Cloud Infrastructure, Business Analytics.
+- Involved in research at the **ASPIRE NSF Engineering Research Center** and leadership through the **Huntsman Business Council**.
 
 # Work Experience
 
 ### **ASPIRE NSF - Engineering Research Center**  
 **Data Analyst** — *October 2023 - Present*  
-- Led electrified transportation analytics initiatives by developing Python-based models (regression, LASSO) for survey analysis of EV charging satisfaction.
+- Led electrified transportation analytics initiatives by developing Python-based models (regression, LASSO) for EV charging satisfaction survey analysis.
 - Utilized **Excel** for cost forecasting and sensitivity analyses across multiple data sources, driving data-driven decisions on future infrastructure investments.
 - Supported strategic decision-making for the **Market Intelligence Team** and assisted with a quarterly newsletter, read by 300+ stakeholders, to facilitate internal awareness of project updates.
 - Mentored 3 interns, providing guidance on tasks, tracking progress, and fostering skill development, showcasing leadership abilities in problem-solving and communication.
