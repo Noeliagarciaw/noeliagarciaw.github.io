@@ -5,11 +5,6 @@ With expertise in **Python**, **SQL**, **Tableau**, and **AWS**, I have contribu
 
 My primary interest lies in **data science**, and I am eager to apply my skills to projects that drive innovation and solve real-world problems through data-driven solutions.
 
-## Contact
-
-- **Email**: noegarw@gmail.com  
-- **LinkedIn**: [linkedin.com/in/noelia-garcia-weidling](https://www.linkedin.com/in/noelia-garcia-weidling/)  
-- **GitHub**: [github.com/noeliagarciaw](https://github.com/Noeliagarciaw) 
 
 # Skills & Tools
 
@@ -69,6 +64,11 @@ Fundamental Question: What brain activity patterns are associated with ADHD; are
 - Managed and enhanced the association's social media presence through content creation, marketing strategies, and maintaining a consistent brand voice.
 
 
+# Contact
+
+- **Email**: noegarw@gmail.com  
+- **LinkedIn**: [linkedin.com/in/noelia-garcia-weidling](https://www.linkedin.com/in/noelia-garcia-weidling/)  
+- **GitHub**: [github.com/noeliagarciaw](https://github.com/Noeliagarciaw) 
 
 
 
