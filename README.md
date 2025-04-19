@@ -1,4 +1,5 @@
 # About Me
+
 I am a **Data Analytics** and **Information Systems** student at **Utah State University**, with a **Data Engineering** emphasis. Originally from **Bolivia**, I have navigated both cultural and academic challenges, which have shaped my resilience and problem-solving skills.
 
 With expertise in **Python**, **SQL**, **Tableau**, and **AWS**, I have contributed to impactful projects at **ASPIRE ERC**, particularly in **electric roadways** and **electric vehicle charging infrastructure**. My academic and professional experiences have deepened my understanding of **machine learning**, **data analysis**, and **strategic planning**.
