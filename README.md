@@ -11,6 +11,19 @@ My primary interest lies in **data science**, and I am eager to apply my skills 
 - **LinkedIn**: [linkedin.com/in/noelia-garcia-weidling](https://www.linkedin.com/in/noelia-garcia-weidling/)  
 - **GitHub**: [github.com/noeliagarciaw](https://github.com/Noeliagarciaw) 
 
+# Skills & Tools
+
+**Languages**: Python, SQL 
+**ML/AI**: Logistic Regression, LASSO, Decision Trees, LSTM, CNN  
+**Visualization**: Tableau, Matplotlib, Seaborn  
+**Cloud**: AWS (EC2, S3)  
+**Tools**: Git, VS Code, Jupyter, AWS EC2
+
+# Languages
+
+- Spanish (native)  
+- English (fluent)  
+- German (proficient)
 
 # Projects
 ### WiDS Datathon Project
@@ -21,7 +34,7 @@ Fundamental Question: What brain activity patterns are associated with ADHD; are
 
 
 # Education
-![Utah State University Logo](https://upload.wikimedia.org/wikipedia/commons/6/65/Utah_State_University_logo.svg)
+<img src="docs/assets/HSB_01_UStateLeft_AggieBlue.png" alt="Utah State University Logo" width="160"/>
 
 **Utah State University** — *Logan, UT*  
 **Bachelor of Science (BS)**  
